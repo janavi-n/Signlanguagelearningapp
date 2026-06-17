@@ -11,7 +11,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.0-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Motion](https://img.shields.io/badge/Motion-Animations-FF0055?style=flat)](https://motion.dev/)
 
-[Live Demo](#) • [Design System](./DESIGN_SYSTEM.md) • [Report Bug](#) • [Request Feature](#)
+[Live Demo](https://www.figma.com/make/kN3AZ2UybYapWNbjLcNLMB/Sign-Language-Learning-App?t=m6vhYKg5aIJVMIEp-20&fullscreen=1&preview-route=%2Fonboarding) • [Design System](./DESIGN_SYSTEM.md) • [Report Bug](#) • [Request Feature](#)
 
 </div>
 
